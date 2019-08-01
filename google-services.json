@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053874721046",
+    "firebase_url": "https://do-it-17.firebaseio.com",
+    "project_id": "do-it-17",
+    "storage_bucket": "do-it-17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053874721046:android:a838890b75387eed",
+        "android_client_info": {
+          "package_name": "com.albertas.doit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053874721046-c3h23rs71scsjbn8vouk5h7b4rn3h30f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.albertas.doit",
+            "certificate_hash": "a00e0d370f6177d8c6089d28c70719587570020c"
+          }
+        },
+        {
+          "client_id": "1053874721046-eq0ihf7ll6qe70umf7u8npji0qvsgs0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1wj4hE6ZNiIjYJFPYurjhjkJEBahm6Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053874721046-eq0ihf7ll6qe70umf7u8npji0qvsgs0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
